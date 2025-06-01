@@ -1,1 +1,2 @@
-export * from "./greet.controller"
+export * from "./greet/greet.controller"
+export * from "./health.controller"
